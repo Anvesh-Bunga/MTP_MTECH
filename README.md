@@ -1,0 +1,1 @@
+I have proposed 2 algorithms to Dynamically assign the BWP in 5G NR-U in coexistence with WiFi, the algorithms are Least collision assignment algorithm and Reinforcement learnimg assignment algorithm, the LCA algorithm selects the bandwidthpart with minimum collision and RL algorithm assigns the best bandwidthpart based on learning.  
